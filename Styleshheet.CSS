@@ -1,0 +1,43 @@
+.bg {
+    background-color: #f1efe6;
+}
+
+* {
+    color:rgb(11, 11, 11);
+}
+
+a[draggable="true"] 
+{
+    color: red
+}
+.head-center{
+    
+    text-align: center;
+}
+
+.div{
+    background-color: black;
+}
+
+.pa{
+    padding: 10px 10px 10px 10px;
+    border: 10px solid black;
+    margin: 50px;
+    background-color: yellow;
+    border-width: 10px;
+}
+#h{
+ color: yellow;
+ text-align: center;
+ margin-top: 0px;
+}
+body{
+    background-color: white;
+}
+
+.SS{
+    color: red;
+}
+#SI{
+    color: green;
+}
